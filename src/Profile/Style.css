@@ -1,0 +1,27 @@
+.Thong_tin_ca_nhan_chu_nha{
+    border: 1px solid#ccc;
+    padding: 10px;
+    border-radius: 10px;
+    height: 176px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+    box-shadow:  5px 5px 5px 10px rgb(250, 249, 249) inset;
+}
+a.a_link_profile{
+    color: #484848 !important;
+    margin-top: 10px;
+       
+}
+
+a.a_link_tryy_cap_ho_so{
+    color: rgb(102, 163, 233) !important;
+      
+}
+
+a.a_link_tryy_cap_ho_so:hover   {
+    font-weight: 700;
+    color: rgb(10, 114, 233) !important;
+      
+}

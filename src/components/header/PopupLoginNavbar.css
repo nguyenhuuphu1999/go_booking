@@ -1,0 +1,19 @@
+.root-popup-navbar{
+    display: none;
+    position: absolute;
+    top: 75px;
+    right: 1px;
+    background-color: #fff;
+    padding: 0px 21px 0px 0px;
+}
+.p_login_navbar-popup{
+    color: black;
+}
+.icon_login_navbar-popup{
+    background-color: black;
+    padding: 15px;
+}
+.active{
+    display: block;
+    z-index: 10;
+}

@@ -1,0 +1,15 @@
+.inp-addItem{
+    margin: 30px 0px 0px 0px;
+    height: 50px;
+    width: 100%;
+    border-radius: 25px;
+    outline: none;
+  
+    padding-left: 30px;
+    background-color: #E8E8E8;
+    border: none;
+  }
+  .submit_form_addItem{
+      margin: 100px 0px;
+      
+  }

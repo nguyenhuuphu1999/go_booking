@@ -1,0 +1,28 @@
+.search-pagehome{
+    position: absolute;
+    background-color: #fff;
+    top: 66%;
+    left: 7%;
+    z-index: 100;
+    padding: 10px 20px;
+   
+}
+
+.search-pagehome ul li{
+    display: flex;
+    padding: 24px 10px;
+    margin-top: 14px;
+}
+
+.search-pagehome ul li:hover{
+   background-color: rgb(236, 229, 229);
+   border-radius: 10px;
+}
+
+
+.search-pagehome ul li img{
+    margin-right: 50px;
+}
+.active{
+    display: contents;
+}

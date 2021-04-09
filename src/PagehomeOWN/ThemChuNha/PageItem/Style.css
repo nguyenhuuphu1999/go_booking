@@ -1,0 +1,19 @@
+.displayFlex{
+    display: flex;
+    justify-content: end;
+    align-items: baseline;
+    
+}
+.btn_next{
+    display: contents;
+ 
+}
+.btn_next a{
+  
+    margin: auto;
+}
+
+.btn_next button{
+  
+    margin-top: 50px !important;
+}

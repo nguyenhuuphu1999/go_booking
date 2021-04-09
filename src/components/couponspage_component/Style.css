@@ -1,0 +1,35 @@
+.promotion{
+    
+    width: 22%;
+    position: relative;
+    top: -190px;
+
+}
+.pStyles{
+    color: #222262;
+    text-align: center;
+    margin-top: -73px;
+    font-size: 26px;
+
+}
+.imgStyle{
+    width: 100%;
+    border-radius: 30px;
+}
+.card-img-promotion{
+    width: 100%;
+    padding: 27px !important;
+}
+
+@media only screen and (max-width: 640px) {
+    .imgStyle{
+        border-radius: 30px;
+    }
+    .promotion{
+        
+        width: 22%;
+        position: absolute;
+        top: -231px;
+    
+    }
+  }

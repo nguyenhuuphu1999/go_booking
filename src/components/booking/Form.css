@@ -1,0 +1,11 @@
+.form {
+    margin: 20px auto;
+    width: 960px;
+}
+
+label,
+input,
+select {
+    display: block;
+    border-radius: 20px;
+}

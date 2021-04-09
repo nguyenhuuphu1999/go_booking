@@ -1,0 +1,51 @@
+.dat-phong-btn {
+  padding: 11px;
+  background-color: deeppink !important;
+}
+.root-dat-phong-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a-link-dieu-kien {
+  color: #0000ff !important;
+  text-decoration: underline;
+}
+.dat-phong-btn:hover {
+  background-color: pink !important;
+}
+
+.root-info-booking {
+  width: 75%;
+
+  padding: 38px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+.image-apartment-info-booking{
+    width: 90%;
+    border-radius: 10px;
+}
+.alert-booking{
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px 0px;
+    animation: pulse 1s infinite;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+@keyframes pulse {
+    0% {
+      background-color: #30bb6a;
+    }
+    25% {
+        background-color: #3959c4;
+      }
+      50% {
+        background-color: #31bbd3;
+      }
+    75% {
+      background-color: #cad34d;
+    }
+  }

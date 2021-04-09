@@ -1,0 +1,49 @@
+.rootprofile {
+  border: 1px solid #ccc;
+  border-radius: 15px !important;
+}
+.btn_profile {
+  padding: 15px 30px !important;
+  border-radius: 10px !important ;
+}
+.avata_profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.avata_profile > a {
+  color: rgb(26, 25, 25) !important;
+  text-decoration: underline;
+}
+.avata_profile > img {
+  margin: 47px 0px 0px 0px;
+  border: 1px solid #ccc;
+  border-radius: 250px;
+}
+.xac_minh_danh_tinh_profile {
+  display: flex;
+
+  flex-direction: column;
+  padding: 0px;
+  width: 78%;
+  line-height: 31px;
+  margin: auto;
+}
+.icon_xac_minh_danh_tinh {
+  font-size: 50px !important;
+  color: aquamarine;
+  margin: 40px 0px 26px 0px;
+}
+.info_xac_nhan {
+  width: 78%;
+
+  margin: auto;
+  margin-top: 23px;
+  border-top: 1px solid #ccc;
+  padding: 20px 0px;
+}
+.check_mail_profile {
+  padding: 23px 0px;
+  font-size: 17px;
+}

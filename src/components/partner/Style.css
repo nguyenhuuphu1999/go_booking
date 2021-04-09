@@ -1,0 +1,38 @@
+.iconStyle {
+    width: 15%;
+    flex-shrink: 0;
+    padding-top: 30px;
+    margin-right: 25px;
+  }
+
+  .support-page-become-apartner{
+    padding:50px 114px !important 
+  }
+  .page-become-apartner-work{
+    padding: 0px 98px;
+  }
+
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100%) !important;
+    margin: -12px;
+}
+
+  @media only screen and (max-width: 640px) {
+    .iconStyle {
+        width:15%;
+        flex-shrink: 0;
+        padding-top:30px;
+        margin-right:25px;
+      }
+
+      .support-page-become-apartner{
+        padding: 0px 25px!important;
+      }
+      .page-become-apartner-work{
+        padding: 10px 19px;
+    }
+    .MuiGrid-spacing-xs-3 {
+        width: calc(100%) !important;
+        margin: -12px;
+    }
+  }

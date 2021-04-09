@@ -1,0 +1,41 @@
+/* 
+/* BASIC SETUP */
+/* ------------------------------------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #fff;
+  color: #555;
+  font-weight: 400;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  font-family: 'lato', Arial, sans-serif;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.show{
+  display: block;
+  transition: all 0.5s ease;
+}
+.hidden{
+  display: none;
+}
+
+.btn{
+  outline: none;
+}
+
+
+
+
+
+

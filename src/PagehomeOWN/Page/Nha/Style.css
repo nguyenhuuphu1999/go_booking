@@ -1,0 +1,34 @@
+.title_chu_nha{
+    padding: 45px 0px;
+}
+.yeu_cau_chu_nha{
+    border: 1px solid #ccc;
+    padding: 22px 49px;
+    border-radius: 5px;
+}
+.dat_phong_chu_nha{
+  
+    border: 1px solid #ccc;
+    padding: 22px 49px;
+    border-radius: 5px;
+}
+.thong_bao_chu_nha{
+   
+    border: 1px solid #ccc;
+    padding: 22px 49px;
+    border-radius: 5px;
+    margin-left: 42px;
+}
+.h3_chu_nha{
+    padding: 10px 0px;
+    border-bottom: 1px solid #ccc;
+}
+.p_chu_nha{
+    padding: 10px 0px;
+
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+.p_p_chu_nha{
+    padding: 10px 0px;
+}

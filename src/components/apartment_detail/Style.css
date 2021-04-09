@@ -1,0 +1,66 @@
+.icon-image {
+  width: 30%;
+}
+.root-Policies-image {
+  display: flex;
+  padding: 0px 4%;
+}
+.image-icon {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.root-Policies-image:hover {
+  background-color: #fafafa;
+  transition: all 0.5s ease;
+  border-radius: 5px;
+}
+/* / Form booking */
+.rootCheckBooking {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 50%;
+  height: 50%;
+}
+.rootBooking {
+  /* background-color: aqua; */
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+.hidden{
+   display: none;
+}
+.active{
+  display: block;
+}
+
+.checkout{
+    text-align: center;
+}
+
+.active{
+    display: block;
+    position: absolute;
+}
+.hidden{
+    display: none;
+}
+.DatePicker{
+  width: 90%;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  border-top: 1px solid #ccc;
+  text-align: center;
+}
+.btn-booking{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calendar{
+  position: absolute;
+  z-index: 1000;
+}

@@ -1,0 +1,21 @@
+.gioi_thieu_trang_ca_nhan{
+    padding: 71px 0px 0px 0px;
+}
+.Province{
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    height: 100px;
+    align-items: center;
+}
+.Province p{
+    margin-top: 20px;
+   
+}
+.Province p:last-child{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.Province:last-child {
+    border-bottom:none ;
+}

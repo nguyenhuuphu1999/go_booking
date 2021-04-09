@@ -1,0 +1,37 @@
+
+.root-form-login-user{
+    background-color: blue;
+    width: 40%;
+}
+.from-login-user{
+    display: flex;
+    flex-direction: column;
+ 
+}
+.input-login-form{
+    border: 1px solid;
+}
+
+.slide-image-componet{
+    width: 300px;
+    height:200px;
+    border-radius: 10px 10px 0px 0px ;
+}
+.h3_componet_apartment{
+    text-align: left  !important;
+    width: 90% !important;
+    color:#222222
+}
+.root-page-hotels{
+    background-color: #ECE8E5 !important;
+}
+@media screen and (max-width:640px){
+    .slide-image-componet{
+        width: 400px;
+        height:300px
+    }
+    
+}
+.carousel-item{
+    display:block;
+}
